@@ -1,13 +1,13 @@
 # Site settings
-title: La landing page parfaite
-email: sgogel@ecedi.fr
-description: "Demonstration d'une landing page parfaite sous jekyll."
+title: Test SEB
+email: seb@ecedi.fr
+description: "Demonstration d'une landing page sous jekyll."
 baseurl: ""
-url: "http://landing.loc"
+url: "http://belaube.github.io/landing/"
 
 # Build settings
-markdown: kramdown
-permalink: pretty
+#markdown: kramdown
+#permalink: pretty
 
 exclude:
   - .bowerrc
