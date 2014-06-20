@@ -1,6 +1,7 @@
 # Site settings
 title: Test SEB
 email: seb@ecedi.fr
+name: "Name landing page SEB"
 description: "Demonstration d'une landing page sous jekyll."
 baseurl: ""
 url: "http://belaube.github.io/landing/"
