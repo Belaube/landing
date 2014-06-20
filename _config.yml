@@ -7,7 +7,7 @@ baseurl: ""
 url: "http://belaube.github.io/landing/"
 
 # Build settings
-#markdown: kramdown
+markdown: kramdown
 #permalink: pretty
 
 exclude:
